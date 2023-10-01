@@ -1,0 +1,2 @@
+[console_scripts]
+sort_f = sort_folder.sort:main
